@@ -1,4 +1,5 @@
-public class OOPSBANNERAPP {
+// assignment 3
+public class APP {
 
     public static void main(String[] args) {
 
